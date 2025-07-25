@@ -8,5 +8,5 @@ Um código feito em Linguagem C com menu interativo que cadastra alunos, notas, 
 
 🤝 Agradecimentos:
 
-Aos meus colegas: Gabriel Sousa e José Davi
-À docente da disciplina: Profª Cledja Karina
+##Aos meus colegas:## Gabriel Sousa e José Davi
+##À docente da disciplina:## Profª Cledja Karina
